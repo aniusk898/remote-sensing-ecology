@@ -1,2 +1,3 @@
-# chiminigagua
-Image analysis work flows, focused primarily on remote sensing images. The name of the repository is inspired in the source of primeval light in Muisca mythology.
+## Remote Sensing Ecology
+
+This repository contains work flows, utilities and protocols for image and remote sensing data analysis applied in ecology.
